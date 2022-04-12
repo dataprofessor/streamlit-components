@@ -39,6 +39,6 @@ import streamlit as st
 
 ## Further reading
 1. [Streamlit Components - API Documentation](https://docs.streamlit.io/library/components)
-2. [Streamlit Components](https://streamlit.io/components)
+2. [Featured Streamlit Components](https://streamlit.io/components)
 3. [Streamlit Components - Community Tracker](https://discuss.streamlit.io/t/streamlit-components-community-tracker/4634)
 4. [`streamlit_pandas_profiling`](https://share.streamlit.io/okld/streamlit-gallery/main?p=pandas-profiling)
