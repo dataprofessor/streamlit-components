@@ -16,7 +16,9 @@ In this tutorial, let's get you started in using the `streamlit_pandas_profiling
 
 #### Install the component 
 
-
+```bash
+pip install streamlit_pandas_profiling
+```
 
 
 ## Demo app
