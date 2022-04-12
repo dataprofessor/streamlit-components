@@ -54,6 +54,16 @@ This is followed by creating a header text for the app:
 st.header('`streamlit_pandas_profiling`')
 ```
 
+Next, we load in the Penguins dataset using the `read_csv` command of `pandas`.
+```python
+df = pd.read_csv('https://raw.githubusercontent.com/dataprofessor/data/master/penguins_cleaned.csv')
+```
+
+Finally, the pandas profiling report is generated via the `profile_report()` command and displayed using `st_profile_report`:
+```python
+pr = df.profile_report()
+st_profile_report(pr)
+```
 
 ## Further reading
 1. [Streamlit Components - API Documentation](https://docs.streamlit.io/library/components)
