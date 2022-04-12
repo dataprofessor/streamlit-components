@@ -4,15 +4,15 @@ Components are third-party Python modules that extend what's possible with Strea
 
 ## What Streamlit components are available?
 
-There are several dozens of Streamlit components featured on Streamlit's website [2](https://streamlit.io/components).
+There are several dozens of Streamlit components featured on Streamlit's website [[2](https://streamlit.io/components)].
 
-Fanilo provided an amazing list of Streamlit components on the wiki post [3] that lists about 85 Streamlit components as of April 2022.
+Fanilo provided an amazing list of Streamlit components on the wiki post [[3](https://discuss.streamlit.io/t/streamlit-components-community-tracker/4634)] that lists about 85 Streamlit components as of April 2022.
 
 ## How to use?
 
 Streamlit components are just a pip-install away.
 
-In this tutorial, let's get you started in using the `streamlit_pandas_profiling` component [4](https://share.streamlit.io/okld/streamlit-gallery/main?p=pandas-profiling).
+In this tutorial, let's get you started in using the `streamlit_pandas_profiling` component [[4](https://share.streamlit.io/okld/streamlit-gallery/main?p=pandas-profiling)].
 
 #### Install the component 
 
