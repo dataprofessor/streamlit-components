@@ -1,6 +1,6 @@
 # Streamlit Components
 
-Components are third-party Python modules that extend what's possible with Streamlit [1](https://docs.streamlit.io/library/components).
+Components are third-party Python modules that extend what's possible with Streamlit [[1](https://docs.streamlit.io/library/components)].
 
 ## What Streamlit components are available?
 
