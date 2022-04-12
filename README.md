@@ -32,6 +32,8 @@ import pandas as pd
 import pandas_profiling
 from streamlit_pandas_profiling import st_profile_report
 
+st.header('`streamlit_pandas_profiling`')
+
 df = pd.read_csv('https://raw.githubusercontent.com/dataprofessor/data/master/penguins_cleaned.csv')
 
 pr = df.profile_report()
@@ -46,6 +48,12 @@ import pandas as pd
 import pandas_profiling
 from streamlit_pandas_profiling import st_profile_report
 ```
+
+This is followed by creating a header text for the app:
+```python
+st.header('`streamlit_pandas_profiling`')
+```
+
 
 ## Further reading
 1. [Streamlit Components - API Documentation](https://docs.streamlit.io/library/components)
