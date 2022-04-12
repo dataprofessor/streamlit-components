@@ -1,6 +1,23 @@
-# st.template
+# Streamlit Components
 
-`st.template` allows writing text and arguments to the Streamlit app.
+Components are third-party Python modules that extend what's possible with Streamlit [1](https://docs.streamlit.io/library/components).
+
+## What Streamlit components are available?
+
+There are several dozens of Streamlit components featured on Streamlit's website [2](https://streamlit.io/components).
+
+Fanilo provided an amazing list of Streamlit components on the wiki post [3] that lists about 85 Streamlit components as of April 2022.
+
+## How to use?
+
+Streamlit components are just a pip-install away.
+
+In this tutorial, let's get you started in using the `streamlit_pandas_profiling` component [4](https://share.streamlit.io/okld/streamlit-gallery/main?p=pandas-profiling).
+
+#### Install the component 
+
+
+
 
 ## Demo app
 
@@ -21,4 +38,7 @@ import streamlit as st
 ```
 
 ## Further reading
-
+1. [Streamlit Components - API Documentation](https://docs.streamlit.io/library/components)
+2. [Streamlit Components](https://streamlit.io/components)
+3. [Streamlit Components - Community Tracker](https://discuss.streamlit.io/t/streamlit-components-community-tracker/4634)
+4. [`streamlit_pandas_profiling`](https://share.streamlit.io/okld/streamlit-gallery/main?p=pandas-profiling)
