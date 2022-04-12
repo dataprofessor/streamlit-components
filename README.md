@@ -6,7 +6,7 @@ Components are third-party Python modules that extend what's possible with Strea
 
 There are several dozens of Streamlit components featured on Streamlit's website [[2](https://streamlit.io/components)].
 
-Fanilo provided an amazing list of Streamlit components on the wiki post [[3](https://discuss.streamlit.io/t/streamlit-components-community-tracker/4634)] that lists about 85 Streamlit components as of April 2022.
+Fanilo (a Streamlit Creator) curated an amazing list of Streamlit components on a wiki post [[3](https://discuss.streamlit.io/t/streamlit-components-community-tracker/4634)] that lists about 85 Streamlit components as of April 2022.
 
 ## How to use?
 
@@ -19,7 +19,6 @@ In this tutorial, let's get you started in using the `streamlit_pandas_profiling
 ```bash
 pip install streamlit_pandas_profiling
 ```
-
 
 ## Demo app
 
