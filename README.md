@@ -68,8 +68,8 @@ st_profile_report(pr)
 ## Making your own Components
 
 If you're interested in making your own component, please check out the following resources:
-- [Create a Component](Create a Component)
-- [Publish a Component](Publish a Component)
+- [Create a Component](https://docs.streamlit.io/library/components/create)
+- [Publish a Component](https://docs.streamlit.io/library/components/publish)
 - [Components API](https://docs.streamlit.io/library/components/components-api)
 - [Blog post on Components](https://blog.streamlit.io/introducing-streamlit-components/)
 
