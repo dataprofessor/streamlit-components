@@ -65,7 +65,19 @@ pr = df.profile_report()
 st_profile_report(pr)
 ```
 
-## Further reading
+## Making your own Components
+
+If you're interested in making your own component, please check out the following resources:
+- [Create a Component](Create a Component)
+- [Publish a Component](Publish a Component)
+- [Components API](https://docs.streamlit.io/library/components/components-api)
+- [Blog post on Components](https://blog.streamlit.io/introducing-streamlit-components/)
+
+Alternatively, if you prefer to learn using videos, our engineer Tim Conkling has put together some amazing tutorials:
+- [How to build a Streamlit component | Part 1: Setup and Architecture](https://youtu.be/BuD3gILJW-Q)
+- [How to build a Streamlit component | Part 2: Part 2: Make a Slider Widget](https://youtu.be/QjccJl_7Jco)
+
+## Further reading about Components
 1. [Streamlit Components - API Documentation](https://docs.streamlit.io/library/components)
 2. [Featured Streamlit Components](https://streamlit.io/components)
 3. [Streamlit Components - Community Tracker](https://discuss.streamlit.io/t/streamlit-components-community-tracker/4634)
